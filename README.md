@@ -1,21 +1,34 @@
-A robust desktop-based Library Management System built with Java and MySQL to automate core library operations, including book indexing, member tracking, fine calculations, and user authentication.
+# 📚 Library Management System (LMS)
 
-🚀 Features
-User Authentication: Role-based secure login system for administrators and regular members.
+A robust, desktop-based Java library management application built with **Java, MySQL, and JDBC**, designed to efficiently manage books, students, borrowing records, returns, and overdue fines.
 
-Book & Catalog Management: Add, update, delete, and search books in real-time.
+## 🚀 Key Features
 
-Member/Student Management: Register new students, track active memberships, and monitor borrowed history.
+* **User Authentication:** Implemented secure login functionality for administrators and library members.
+* **Book Management:** Add, update, delete, search, and manage library books efficiently.
+* **Student Management:** Register and manage students/members along with their borrowing history.
+* **Book Circulation:** Implemented book issue and return functionality with proper availability tracking.
+* **Fine Management:** Automatically calculates overdue fines based on the return date.
+* **Database Integration:** Persistent data storage using **MySQL** with **JDBC** connectivity.
+* **CRUD Operations:** Implemented complete Create, Read, Update, and Delete operations for library records.
 
-Circulation & Fines: Seamless check-in/check-out workflow with automated overdue fine calculations.
+## 🛠️ Tech Stack
 
-Database Integration: Persistent data storage powered by MySQL accessed via JDBC.
+* **Language:** Java
+* **Programming Concepts:** Object-Oriented Programming (OOP)
+* **Database:** MySQL
+* **Database Connectivity:** JDBC (Java Database Connectivity)
+* **IDE:** Eclipse
 
-🛠️ Tech Stack
-Programming Language: Java (Object-Oriented Programming principles)
+## 📋 Project Highlights
 
-Database: MySQL
+* Built a desktop-based library management application to automate common library operations.
+* Developed modules for book management, student management, book issue/return, and fine calculation.
+* Implemented MySQL database integration using JDBC for persistent data management.
+* Applied Java OOP principles and exception handling to build a structured and maintainable application.
+* Implemented CRUD operations for efficient management of library records.
 
-Connectivity: JDBC (Java Database Connectivity)
+---
 
-IDE: Eclipse
+*Built with ❤️ by Sagar Kumar*
+
